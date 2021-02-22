@@ -1,0 +1,21 @@
+@import "variables";
+
+.cfp {
+  .info {
+    font-size: 1.125rem;    
+    .link {
+      color: $link-color;
+    }
+  }
+
+  .list {
+    li {
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+      span {
+        font-size: 1rem;
+      }
+    }
+    margin-bottom: 40px;
+  }
+}

@@ -1,15 +1,9 @@
-# Project dependencies
-.cache
+*.DS_Store
 node_modules
-yarn-error.log
-.idea/
-
-# Build directory
-/public/*
-!/public/static/pics
-.DS_Store
-
-
-# Secrets
-
-secrets.js
+.next
+.vscode
+.env
+.idea
+.env*.local
+.env
+# out
