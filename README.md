@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/knowit/online-fagseminar-oktober-2020.svg?branch=master)](https://travis-ci.org/knowit/online-fagseminar-oktober-2020)
+[![Build Status](https://travis-ci.org/knowit/kds2021.svg?branch=master)](https://travis-ci.org/knowit/kds2021)
 
-# Knowit Online Fagseminar Høst 2020
+# Knowit Developer Summit 2021
 
 Created with [Gatsby](https://www.gatsbyjs.org/).
 
