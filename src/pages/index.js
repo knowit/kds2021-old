@@ -36,10 +36,9 @@ const Frontpage = () => (
         withTopSeperator
         minHeight="0">
         <h1>
-          Fagseminar {eventData.season.longCapitalized} {eventData.year}
+          Knowit Developer Summit {eventData.year}
         </h1>
         <Paragraph>
-          <h3>På grunn av Coronavirus-utbruddet holder vi dette fagseminaret online!</h3><br/><br/>
           {`Knowit Developer Summit is an internal conference organized once a year and includes all the Knowit companies.`}
         </Paragraph>
         <Paragraph>
