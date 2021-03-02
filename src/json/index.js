@@ -20,10 +20,6 @@ export const eventData = {
   season,
   startDate,
   endDate,
-  cancelledEventStartDate,
-  cancelledEventEndDate,
-  cancelledEventCity,
-  cancelledEventCountry,
   cities: [
     'Stockholm',
     'Oslo',
