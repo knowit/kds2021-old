@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Knowit Online Fagseminar Høst 2020',
+    title: 'Knowit Developer Summit 2021',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -21,7 +21,7 @@ module.exports = {
         tables: [
           {
             baseId: 'appGiFyjGTHzyOdpe',
-            tableName: 'innsendte_foredrag_okt_20',
+            tableName: 'innsendte_foredrag',
             mapping: { speaker_image: 'fileNode' },
           },
         ],
