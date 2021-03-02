@@ -89,7 +89,7 @@ functions:
 
 #    Define function environment variables here
     environment:
-      TRAVIS_REPO_SLUG: knowit%2Fonline-fagseminar-oktober-2020
+      TRAVIS_REPO_SLUG: knowit%2Fkds2021
       TRAVIS_API_TOKEN: ${ssm:TRAVIS_API_TOKEN~true}
       SLACK_AUTH_TOKEN: ${ssm:SLACK_AUTH_TOKEN~true}
 
