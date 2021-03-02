@@ -40,13 +40,10 @@ const Frontpage = () => (
         </h1>
         <Paragraph>
           <h3>På grunn av Coronavirus-utbruddet holder vi dette fagseminaret online!</h3><br/><br/>
-          {`Knowit Objectnet arrangerer to fagseminarer årlig. Det er de ansatte
-          selv som lager programmet.
-          ${eventData.season.longCapitalized} ${eventData.year} skulle det vært avholdt ${eventData.cancelledEventStartDate} -
-          ${eventData.cancelledEventEndDate} ${eventData.year} i ${eventData.cancelledEventCity}, ${eventData.cancelledEventCountry}.`}
+          {`Knowit Developer Summit is an internal conference organized once a year and includes all the Knowit companies.
         </Paragraph>
         <Paragraph>
-          {`Tidligere har vi besøkt ${eventData.cities.join(', ')} etc.`}
+          {`Earlier it has been held in ${eventData.cities.join(', ')} etc.`}
         </Paragraph>
         <CodeOfConduct />
       </ContentSection>
