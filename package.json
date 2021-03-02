@@ -1,6 +1,6 @@
 {
-  "name": "online-fagseminar-oktober-2020",
-  "description": "Fagseminar side for Knowit",
+  "name": "kds2021",
+  "description": "Knowit Developer Summit 2021",
   "version": "1.0.0",
   "author": "Christian Peter <christian.peter@knowit.no>",
   "devDependencies": {
