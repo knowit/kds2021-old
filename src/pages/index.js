@@ -40,7 +40,7 @@ const Frontpage = () => (
         </h1>
         <Paragraph>
           <h3>På grunn av Coronavirus-utbruddet holder vi dette fagseminaret online!</h3><br/><br/>
-          {`Knowit Developer Summit is an internal conference organized once a year and includes all the Knowit companies.
+          {`Knowit Developer Summit is an internal conference organized once a year and includes all the Knowit companies.`}
         </Paragraph>
         <Paragraph>
           {`Earlier it has been held in ${eventData.cities.join(', ')} etc.`}
