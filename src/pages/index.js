@@ -24,12 +24,6 @@ const Frontpage = () => (
   <Layout>
     <Content>
       <ContentSection backgroundColor={colors.blueDark} color="white">
-        <StyledLogoContainer>
-          <OnlineLogo />
-          <Paragraph color="white">
-            {eventData.startDate}, {eventData.year}
-          </Paragraph>
-        </StyledLogoContainer>
       </ContentSection>
       <ContentSection
         previousSectionColor={colors.blueDark}
