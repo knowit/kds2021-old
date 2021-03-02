@@ -54,7 +54,7 @@
     "format": "prettier --write 'src/**/*(*.js|*.jsx)'",
     "test": "echo \"Error: no test specified ( ͡° ͜ʖ ͡°)\"",
     "predeploy": "npm run build && cp CNAME public/",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/knowit/online-fagseminar-oktober-2020.git",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/knowit/kds2021.git",
     "predeploy-ci": "npm run build",
     "deploy-ci": "node ghpagesScript.js",
     "prettier": "node prettier.js write",
